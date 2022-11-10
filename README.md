@@ -5,7 +5,8 @@
 - 🌱 I’m currently Upgrading my knowelege of Statistics, SQL , python,pandas,numpy,jupyter notebook and more
 - 💞️ I’m looking to collaborate on any project to enhance my exipernece
 - 📫 How to reach me ...https://www.linkedin.com/in/mohamadahassan1/
--👀 I’m interested in Programming,statistics and Ml
+- 
+- 👀 I’m interested in Programming,statistics and Ml
 - 👀 also interested in Biology,Chemistry, Genetics and physics 
 
 <!---
