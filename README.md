@@ -1,15 +1,28 @@
-- 👋 Hi, I’m "Mohamad A. Hassan" ----->@Muhammad-Abdelsamad1
+# Mohamed A. Hassan 
 
-- I have finished projects in the field of data analytics and visualization using python and some basic tasks in frontend development 
+### Data Analyst & Data Scientist 
 
-- 🌱 I’m currently Upgrading my knowelege of Statistics, SQL , python,pandas,numpy,jupyter notebook and more
-- 💞️ I’m looking to collaborate on any project to enhance my exipernece
-- 📫 How to reach me ...https://www.linkedin.com/in/mohamadahassan1/
-- 
-- 👀 I’m interested in Programming,statistics and Ml
-- 👀 also interested in Biology,Chemistry, Genetics and physics 
+###### 👋 Hello! I'm Mohamed, a passionate data analyst and data scientist/computional biology enthusiast  from Egypt.
 
-<!---
-Muhammad-Abdelsamad1/Muhammad-Abdelsamad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+* 📊 Data Analysis & Visualization 
+* 💻 Python 
+* 📈 Statistics
+* 🧮 SQL 
+* ⚙️ Pandas, NumPy, Scikit learning  
+* 🖥️ Jupyter Notebooks
+
+- 🌱 I’m currently learning Machine Learning and Deep Learning.  
+- 💞️ I’m looking to collaborate on any projects involving data and software.   
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohamadahassan1/)
+
+🧐 Interests:  
+Programming ⚡ | Statistics 📊| Biology 🔬 | Chemistry 🧪 | Bioinformatician 🔬🧬⚙️
+Computational biologist 🧬🔬🧮⚙️⛏️
+Genomics researcher 🧬💊🔬 
+
+💻 Recent Projects: 
+- E-commerce data analysis and dashboard    
+- Stock market data visualization    
+- Automated COVID-19 data tracking dashboard     
+
