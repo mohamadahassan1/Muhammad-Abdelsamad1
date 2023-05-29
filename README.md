@@ -13,7 +13,7 @@ Skills:
 * 🖥️ Jupyter Notebooks
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning.  
-- 💞️ I’m looking to collaborate on any projects involving data and software.   
+- 💞️ I’m looking to collaborate on any projects involving data and bioinformatics or Computational biology.   
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohamadahassan1/)
 
 🧐 Interests:  
@@ -22,7 +22,7 @@ Computational biologist 🧬🔬🧮⚙️⛏️
 Genomics researcher 🧬💊🔬 
 
 💻 Recent Projects: 
-- E-commerce data analysis and dashboard    
-- Stock market data visualization    
+- Medical Data visualizer     
+- Demographic data analyzer     
 - Automated COVID-19 data tracking dashboard     
 
